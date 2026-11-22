@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "TOEFL 2026 Public Data"
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: "ToeflHub"
+    given-names: ""
+version: 2026.11
+date-released: 2026-11-20
+url: "https://github.com/toeflhub/toefl-2026-public-data"
